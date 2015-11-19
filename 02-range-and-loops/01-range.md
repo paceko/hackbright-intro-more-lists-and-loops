@@ -29,8 +29,8 @@
 Make sure you have pushed your lists exercises before making any commits on GitHub, otherwise you will have to make a merge commit later.*
 
 1. What does `range` do with a single argument?
-  * [Your answer here]
+  * gives the number of index for that number
 2. What do the arguments mean if there are 2?
-  * [Your answer here]
+  * it gives the range of numbers
 3. What does the third argument mean?
-  * [Your answer here]
+  * it works as a factor
